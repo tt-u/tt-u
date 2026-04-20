@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="./assets/ttu.png" alt="TTU" width="100%" />
+<p align="center">
+  <img src="./assets/ttu.png" alt="TTU" width="50%" />
+</p>
 
 <!--
 **tt-u/tt-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
