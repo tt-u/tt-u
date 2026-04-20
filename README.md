@@ -1,22 +1,17 @@
-## Hi there 👋
+<h3 align="center">你好，我是TTU</h3>
 
 <p align="center">
-  <img src="./assets/ttu.png" alt="TTU" width="50%" />
+  这是我在bmp世界中的头像，你可以在 <a href="https://bmp.blockinsight.top/?t=name">https://bmp.blockinsight.top/?t=name</a> 来试试你的
 </p>
 
-<!--
-**tt-u/tt-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://bmp.blockinsight.top/?t=ttu" alt="TTU bmp avatar" width="120" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  这是我现在的名片，你可以在 <a href="https://card.blockinsight.top">https://card.blockinsight.top</a> 试一下
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://bmp.blockinsight.top/?t=ttu" width="80" />
+<p align="center">
+  <img src="./assets/ttu.png" alt="TTU card" width="50%" />
+</p>
