@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="./assets/ttu.png" alt="TTU" width="100%" />
+
 <!--
 **tt-u/tt-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,3 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://bmp.blockinsight.top/?t=ttu" width="80" />
-
